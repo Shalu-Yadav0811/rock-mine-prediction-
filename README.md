@@ -35,9 +35,13 @@ Project Structure :
 Rock-Mine-Prediction
 
 │── README.md        # Project Documentation
+
 │── rock_mine.ipynb  # Colab Notebook
-│── dataset/         # Dataset (if included)
-│── models/          # Saved models (optional)
+
+│── dataset/         # Dataset 
+
+│── models/          # Saved models 
+
 │── requirements.txt # Dependencies
 
 
