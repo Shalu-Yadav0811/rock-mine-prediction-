@@ -5,11 +5,14 @@ This project is a binary classification model that predicts whether an object is
 
 Dataset 
 Dataset Name: Sonar Dataset
+
 Features: 60 numerical attributes representing sonar signal frequencies
+
 Source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks))  
 
 Target Labels :
 R → Rock
+
 M → Mine
 
 Technologies Used :
